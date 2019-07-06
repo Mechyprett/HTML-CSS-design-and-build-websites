@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16c80c06-c571-4797-9838-1e74e1f39d8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HTML &amp; CSS design and build websites.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/cascade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/css-selectors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/css/example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/css/styles2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/css/styles3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/example10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/inheritance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/using-external-css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/using-internal-css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/background-color.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/css/style3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/example11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/foreground-color.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/hsla.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/opacity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/first-letter-and-line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/font-face.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/font-family.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/font-size.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/font-style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/font-weight.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/fonts/chunkfive.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/fonts/chunkfive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/fonts/chunkfive.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/fonts/chunkfive.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/hover-active-focus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/images/one-year.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/images/six-months.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/images/two-years.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/letter-and-word-spacing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/line-height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/link-visited.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/text-align.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/text-decoration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/text-indent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/text-shadow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/text-transform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/vertical-align.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/Display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/Example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/Visibility.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/border-color.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/border-image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/border-radius.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/border-shorthand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/border-style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/border-width.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/border-width.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/box-shadow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/centering-content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/elliptical-shapes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/images/clavinet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/images/dots.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/images/keys.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/images/rhodes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/images/wurlitzer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/margin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/min-height-max-height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/min-width-max-width.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/overflow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/padding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/width-height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/empty-cells.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/images/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/images/icon-plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/images/web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/list-style-image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/list-style-type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/list-style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/table-properties.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abbreviations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adding-a-flash-movie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adding-a-flash-mp3-player.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adding-a-flash-video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adding-html5-audio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adding-html5-video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adding-images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aligning-images-horizontally.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aligning-images-vertically.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/test-audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/test-audio.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-table-structure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/block-elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/body-head-title.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bold.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/border-and-background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button-and-hidden-controls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class-attribute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comments-in-html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definition-lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definitions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drop-down-list-box.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email-links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emphasis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figure-and-caption.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-input-box.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash/bird.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash/osplayer.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash/player_mp3_1.0.0.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-structure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grouping-elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grouping-form-elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grouping-inline-elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/height-and-width-of-images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/horizontal-rule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html5-date-input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html5-email-input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html5-form-validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html5-placeholder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html5-search-input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html5-url-input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/id-attribute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iframes-continued.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iframes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images-button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bird.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chocolate-islands.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lemon-posset.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/otters.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/puppy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/quokka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/roasted-brussel-sprouts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/subscribe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/zucchini-cake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inline-elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insert-and-delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/italic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labelling-form-controls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line-breaks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linking-to-a-specific-part.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linking-to-other-sites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linking-to-others-pages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/long-tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiple-audio-sources.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiple-select-box.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiple-video-sources.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opening-links-in-a-new-window.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordered-lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paragraphs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password-input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quotations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radio-button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spanding-columns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spanning-rows.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strikethrough.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submit-button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superscript-and-subscript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table-headings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textarea.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unordered-lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/puppy.flv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/puppy.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/puppy.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/where-to-place-images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/white-space.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/width-and-spacing.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14/list-style-position.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14/list-style.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14/table-properties.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14/empty-cells.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/14/list-style-position.html" />
+        <option value="$PROJECT_DIR$/14/list-style.html" />
+        <option value="$PROJECT_DIR$/14/table-properties.html" />
+        <option value="$PROJECT_DIR$/14/empty-cells.html" />
+        <option value="$PROJECT_DIR$/14/list-style-type.html" />
+        <option value="$PROJECT_DIR$/14/list-style-image.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="246" />
+    <option name="y" value="10" />
+    <option name="width" value="1351" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HTML &amp; CSS design and build websites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML &amp; CSS design and build websites" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16c80c06-c571-4797-9838-1e74e1f39d8f" name="Default Changelist" comment="" />
+      <created>1562439614428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562439614428</updated>
+      <workItem from="1562439616898" duration="2847000" />
+    </task>
+    <task id="LOCAL-00001" summary="Practicas">
+      <created>1562441987482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562441987482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2847000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practicas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practicas" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/14/list-style.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/table-properties.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/empty-cells.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/list-style-type.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/list-style-image.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/list-style-position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
