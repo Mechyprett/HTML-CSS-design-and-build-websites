@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16c80c06-c571-4797-9838-1e74e1f39d8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/14/gabs-between-cells.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/styling-text-inputs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14/empty-cells.html" beforeDir="false" afterPath="$PROJECT_DIR$/14/empty-cells.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,19 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/14/empty-cells.html">
+        <entry file="file://$PROJECT_DIR$/14/styling-text-inputs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14/gabs-between-cells.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="529">
+              <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -55,8 +45,9 @@
         <option value="$PROJECT_DIR$/14/list-style-position.html" />
         <option value="$PROJECT_DIR$/14/list-style.html" />
         <option value="$PROJECT_DIR$/14/table-properties.html" />
-        <option value="$PROJECT_DIR$/14/gabs-between-cells.html" />
         <option value="$PROJECT_DIR$/14/empty-cells.html" />
+        <option value="$PROJECT_DIR$/14/gabs-between-cells.html" />
+        <option value="$PROJECT_DIR$/14/styling-text-inputs.html" />
       </list>
     </option>
   </component>
@@ -121,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562439614428</updated>
-      <workItem from="1562439616898" duration="6100000" />
+      <workItem from="1562439616898" duration="7307000" />
     </task>
     <task id="LOCAL-00001" summary="Practicas">
       <created>1562441987482</created>
@@ -172,11 +163,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562445505452</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Border on empty cells">
+      <created>1562446000171</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562446000171</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Gaps between cells border-spacing, border-collapse">
+      <created>1562446374658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1562446374658</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6100000" />
+    <option name="totallyTimeSpent" value="7307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -211,7 +216,9 @@
     <MESSAGE value="positioning the marker" />
     <MESSAGE value="List Shorthand list-style" />
     <MESSAGE value="Table Properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="Table Properties" />
+    <MESSAGE value="Border on empty cells" />
+    <MESSAGE value="Gaps between cells border-spacing, border-collapse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gaps between cells border-spacing, border-collapse" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/14/list-style-type.html">
@@ -249,17 +256,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/14/gabs-between-cells.html">
+    <entry file="file://$PROJECT_DIR$/14/empty-cells.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/14/empty-cells.html">
+    <entry file="file://$PROJECT_DIR$/14/gabs-between-cells.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/styling-text-inputs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
         </state>
       </provider>
     </entry>
