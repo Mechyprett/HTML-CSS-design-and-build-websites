@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16c80c06-c571-4797-9838-1e74e1f39d8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/14/styling-text-inputs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/Example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/aligning-form-controls-problem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/aligning-form-controls-solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/cursor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/styling-fieldsets-and-legends.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/styling-submit-buttons.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,11 +21,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/14/styling-text-inputs.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="529">
               <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14/styling-submit-buttons.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14/styling-fieldsets-and-legends.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14/aligning-form-controls-problem.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14/aligning-form-controls-solution.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14/cursor.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14/Example.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -48,6 +107,12 @@
         <option value="$PROJECT_DIR$/14/empty-cells.html" />
         <option value="$PROJECT_DIR$/14/gabs-between-cells.html" />
         <option value="$PROJECT_DIR$/14/styling-text-inputs.html" />
+        <option value="$PROJECT_DIR$/14/styling-fieldsets-and-legends.html" />
+        <option value="$PROJECT_DIR$/14/aligning-form-controls-problem.html" />
+        <option value="$PROJECT_DIR$/14/images/aligning-form-controls-solution.html" />
+        <option value="$PROJECT_DIR$/14/cursor.html" />
+        <option value="$PROJECT_DIR$/14/Example.html" />
+        <option value="$PROJECT_DIR$/14/styling-submit-buttons.html" />
       </list>
     </option>
   </component>
@@ -75,6 +140,12 @@
               <item name="HTML &amp; CSS design and build websites" type="462c0819:PsiDirectoryNode" />
               <item name="14" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HTML &amp; CSS design and build websites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML &amp; CSS design and build websites" type="462c0819:PsiDirectoryNode" />
+              <item name="14" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -89,6 +160,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Uris Nicolas\Documents\HTML &amp; CSS design and build websites\14" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,7 +188,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562439614428</updated>
-      <workItem from="1562439616898" duration="7307000" />
+      <workItem from="1562439616898" duration="8590000" />
     </task>
     <task id="LOCAL-00001" summary="Practicas">
       <created>1562441987482</created>
@@ -177,11 +253,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562446374658</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Styling Forms... Styling text inputs">
+      <created>1562447202114</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1562447202114</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7307000" />
+    <option name="totallyTimeSpent" value="8590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -218,7 +301,8 @@
     <MESSAGE value="Table Properties" />
     <MESSAGE value="Border on empty cells" />
     <MESSAGE value="Gaps between cells border-spacing, border-collapse" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gaps between cells border-spacing, border-collapse" />
+    <MESSAGE value="Styling Forms... Styling text inputs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Styling Forms... Styling text inputs" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/14/list-style-type.html">
@@ -274,6 +358,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/aligning-form-controls-problem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/cursor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/Example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/aligning-form-controls-solution.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/styling-fieldsets-and-legends.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/styling-submit-buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
         </state>
       </provider>
     </entry>
